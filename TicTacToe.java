@@ -7,7 +7,6 @@ public class TicTacToe {
     private static char currentPlayer = 'X';
 
      public static void main(String[] args) {
-        game.start.play();
         return null;
 
     }
